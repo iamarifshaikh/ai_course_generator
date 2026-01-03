@@ -1,5 +1,5 @@
 import { motion } from "framer-motion";
-import { Clock, Book, ChevronRight, Award, Zap, MoreHorizontal, User } from "lucide-react";
+import { Clock, Book, ChevronRight, Award, Zap, User } from "lucide-react";
 import Navbar from "@/components/Navbar";
 
 const Dashboard = () => {

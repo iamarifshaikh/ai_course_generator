@@ -1,5 +1,5 @@
 import { useState } from "react";
-import { Maximize2, Download, ImageIcon, FileImage } from "lucide-react";
+import { Maximize2, Download, FileImage } from "lucide-react";
 import { motion } from "framer-motion";
 
 const VisualAsset = () => {

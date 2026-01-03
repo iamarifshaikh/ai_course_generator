@@ -1,4 +1,4 @@
-import { UploadCloud, FileText, CheckCircle } from "lucide-react";
+import { UploadCloud } from "lucide-react";
 
 const AssignmentView = () => {
     return (
